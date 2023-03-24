@@ -83,7 +83,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Great-kiola)
+- Frontend Mentor - [@Great-kiola](https://www.frontendmentor.io/profile/Great-kiola)
 - Twitter - [@great_kiola](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
