@@ -25,6 +25,8 @@ body {
     background-repeat: no-repeat;
     background-size: 8%;
     background-position: right 100px top 2px;
+    width: 55%;
+    height: 10%;
 }
 
 .row2 {
