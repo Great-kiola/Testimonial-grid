@@ -16,6 +16,15 @@ body {
     margin: 20px;
 }
 
+.lists {
+    list-style-type: none;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+}
+
 .row1 {
     background-color: hsl(263, 55%, 52%);
     padding: 20px;
@@ -23,14 +32,18 @@ body {
     margin: 20px auto;
     background-image: url(images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
-    background-size: 8%;
+    background-size: 15%;
     background-position: right 100px top 2px;
     width: 55%;
     height: 10%;
 }
 
-.row1 h1, p {
+h1, p {
     font-size: 0.9rem;
+}
+
+p {
+    font-size: 11px;
 }
 
 .row2 {
