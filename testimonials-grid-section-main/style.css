@@ -11,10 +11,13 @@ body {
     background-color: hsl(210, 46%, 95%);
 }
 
+.lists {
+    list-style-type: none;
+}
+
 .rows {
     color: white;
     padding: 50px;
-    margin: 20px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
@@ -23,21 +26,15 @@ body {
 .my-row:last-child{
     grid-column-start: 4;
     grid-row-start: 1;
-    grid-row-end: 1;
 }
 
-.lists {
-    list-style-type: none;
+h1,
+p {
+    font-size: 0.9rem;
 }
 
-.title {
-    display: flex;
-    align-items: center;
-    margin: -12px;
-}
-
-.my-row {
-    height: 25vh;
+p {
+    font-size: 11px;
 }
 
 .row1 {
@@ -50,16 +47,6 @@ body {
     background-position: right 100px top 2px;
     grid-column: 1 / 3 ;
 }
-
-h1,
-p {
-    font-size: 0.9rem;
-}
-
-p {
-    font-size: 11px;
-}
-
 
 .row2 {
     background-color: hsl(217, 19%, 35%);
