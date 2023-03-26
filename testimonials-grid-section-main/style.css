@@ -26,6 +26,7 @@ body {
 .my-row:last-child{
     grid-column-start: 4;
     grid-row-start: 1;
+    grid-row-end: 3;
 }
 
 h1,
