@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Great-kiola/Testimonial-grid)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://github.com/Great-kiola/Testimonial-grid)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
 
