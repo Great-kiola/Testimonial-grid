@@ -12,6 +12,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Difficulties](#difficulties)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -32,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Great-kiola/Testimonial-grid)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,23 +49,14 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- I learnt how to use the grids in css
+- I learnt how to create cards of different sizes and different variations
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+### Difficulties
+Some difficulties i have faced includes
+- not being able to easily get the grid to be diffirent size like in the challenge.
+- The quotes diddnt really want to align to top but i managed to get it to stay on top.
+- The desing is currently not optimized for, that one of the weak points im working on. 
 
 ### Continued development
 
