@@ -66,7 +66,7 @@ Areas of continued development includes
 ### Useful resources
 
 - [Css Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/#prop-display) - This helped me to understand grid better.
-- [Youtube](https://www.youtube.com)
+- [Youtube](https://www.youtube.com/) - Youtube(Search css grids for beginners)
 
 ## Author
 
