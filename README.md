@@ -64,8 +64,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Css Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/#prop-display) - This helped me to understand grid better.
+- [ Youtube](https://www.youtube.com)
 
 ## Author
 
@@ -74,5 +74,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks to front-end mentor for hosting this challenge.
 
