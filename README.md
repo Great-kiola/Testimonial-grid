@@ -60,12 +60,13 @@ Some difficulties i have faced includes
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Areas of continued development includes
+- Making the page responsive, and working better on all screen sizes
 
 ### Useful resources
 
 - [Css Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/#prop-display) - This helped me to understand grid better.
-- [ Youtube](https://www.youtube.com)
+- [Youtube](https://www.youtube.com)
 
 ## Author
 
